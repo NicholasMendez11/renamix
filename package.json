@@ -6,11 +6,11 @@
   "author": "Nicholas Mendez (https://www.ngmb.dev/)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngmbdev/renamix.git"
+    "url": "git+https://github.com/NicholasMendez11/renamix.git"
   },
-  "homepage": "https://github.com/ngmbdev/renamix#readme",
+  "homepage": "https://github.com/NicholasMendez11/renamix#readme",
   "bugs": {
-    "url": "https://github.com/ngmbdev/renamix/issues"
+    "url": "https://github.com/NicholasMendez11/renamix/issues/new"
   },
   "engines": {
     "node": ">=18"

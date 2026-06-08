@@ -10,7 +10,9 @@
 
 Please **do not** open a public GitHub issue for security problems.
 
-Report privately via [GitHub Security Advisories](https://github.com/ngmbdev/renamix/security/advisories/new) or email the maintainer through [ngmb.dev](https://www.ngmb.dev/).
+Report privately via [GitHub Security Advisories](https://github.com/NicholasMendez11/renamix/security/advisories/new) or email the maintainer through [ngmb.dev](https://www.ngmb.dev/).
+
+For non-security bugs and feature requests, open a [regular issue](https://github.com/NicholasMendez11/renamix/issues/new).
 
 ## Threat model
 

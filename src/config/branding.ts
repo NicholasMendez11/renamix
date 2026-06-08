@@ -3,6 +3,6 @@ export const BRANDING = {
   version: "0.1.2",
   author: "Nicholas Mendez",
   website: "https://www.ngmb.dev/",
-  repository: "https://github.com/ngmbdev/renamix",
-  issues: "https://github.com/ngmbdev/renamix/issues",
+  repository: "https://github.com/NicholasMendez11/renamix",
+  issues: "https://github.com/NicholasMendez11/renamix/issues/new",
 } as const;

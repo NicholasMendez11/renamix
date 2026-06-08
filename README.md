@@ -69,8 +69,8 @@ See [SECURITY.md](SECURITY.md) to report vulnerabilities.
 
 ## Links
 
-- [GitHub](https://github.com/ngmbdev/renamix)
-- [Issues](https://github.com/ngmbdev/renamix/issues)
+- [GitHub](https://github.com/NicholasMendez11/renamix)
+- [Report an issue](https://github.com/NicholasMendez11/renamix/issues/new)
 - [Author](https://www.ngmb.dev/)
 
 ## License
