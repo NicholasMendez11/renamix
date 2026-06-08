@@ -14,6 +14,8 @@ vacation.webp     →  019acbd98211.webp
 npm install -g renamix
 ```
 
+[npm package](https://www.npmjs.com/package/renamix)
+
 Requires **Node.js 18+**.
 
 ## Quick start
@@ -69,6 +71,7 @@ See [SECURITY.md](SECURITY.md) to report vulnerabilities.
 
 ## Links
 
+- [npm](https://www.npmjs.com/package/renamix)
 - [GitHub](https://github.com/NicholasMendez11/renamix)
 - [Report an issue](https://github.com/NicholasMendez11/renamix/issues/new)
 - [Author](https://www.ngmb.dev/)

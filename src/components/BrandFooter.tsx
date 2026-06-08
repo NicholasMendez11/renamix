@@ -16,6 +16,8 @@ export function BrandFooter() {
         <Text dimColor> · </Text>
         {osc8Link(BRANDING.website, websiteLabel)}
         <Text dimColor> · </Text>
+        {osc8Link(BRANDING.npm, "npm")}
+        <Text dimColor> · </Text>
         {osc8Link(BRANDING.repository, githubLabel)}
         <Text dimColor> · </Text>
         {osc8Link(BRANDING.issues, issuesLabel)}
