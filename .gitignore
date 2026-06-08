@@ -1,0 +1,23 @@
+node_modules/
+dist/
+coverage/
+
+# Logs and local artifacts
+*.log
+*.tgz
+.DS_Store
+Thumbs.db
+
+# Secrets and local config (never commit)
+.env
+.env.*
+.npmrc
+
+# Editor and OS
+.idea/
+.vscode/
+*.swp
+
+# Renamix runtime logs in dev folders
+.renamix-log.json
+.renamix-log-*.json

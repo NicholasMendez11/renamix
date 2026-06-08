@@ -1,0 +1,52 @@
+{
+  "name": "renamix",
+  "version": "0.1.2",
+  "description": "Rename folder files to random unique names. TUI or CLI, with rollback.",
+  "type": "module",
+  "author": "Nicholas Mendez (https://www.ngmb.dev/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngmbdev/renamix.git"
+  },
+  "homepage": "https://github.com/ngmbdev/renamix#readme",
+  "bugs": {
+    "url": "https://github.com/ngmbdev/renamix/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "renamix": "./dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "tsx src/cli.ts",
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "test": "vitest"
+  },
+  "keywords": [
+    "rename",
+    "bulk-rename",
+    "files",
+    "cli",
+    "tui",
+    "terminal",
+    "file-renamer"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "ink": "^5.2.0",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^18.3.20",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  }
+}
