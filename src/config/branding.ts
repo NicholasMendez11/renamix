@@ -1,6 +1,6 @@
 export const BRANDING = {
   name: "renamix",
-  version: "0.1.2",
+  version: "0.1.4",
   author: "Nicholas Mendez",
   website: "https://www.ngmb.dev/",
   npm: "https://www.npmjs.com/package/renamix",

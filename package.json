@@ -1,6 +1,6 @@
 {
   "name": "renamix",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Rename folder files to random unique names. TUI or CLI, with rollback.",
   "type": "module",
   "author": "Nicholas Mendez (https://www.ngmb.dev/)",
